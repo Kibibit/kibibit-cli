@@ -1,0 +1,31 @@
+{
+  "name": "kibibit-cli",
+  "version": "0.1.0",
+  "description": "cli tool for development using hubflow(gitflow + GitHub)",
+  "bin": {
+    "kibibit": "bin/kibibit-cli.js"
+  },
+  "main": "./lib/kibibit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kibibit/kibibit-cli.git"
+  },
+  "author": "neilkalman@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kibibit/kibibit-cli/issues"
+  },
+  "homepage": "https://github.com/Kibibit/kibibit-cli#readme",
+  "dependencies": {
+    "cli-color": "^1.2.0",
+    "gitlike-cli": "^0.1.0",
+    "nodegit": "^0.20.3",
+    "pkginfo": "^0.4.1",
+    "prompt-confirm": "^1.2.0",
+    "q": "^1.5.1",
+    "shelljs": "^0.7.8"
+  }
+}
