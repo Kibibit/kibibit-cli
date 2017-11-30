@@ -22,7 +22,12 @@
   "dependencies": {
     "cli-color": "^1.2.0",
     "gitlike-cli": "^0.1.0",
+    "inquirer": "^4.0.0",
+    "json-colorizer": "^1.1.0",
+    "lodash": "^4.17.4",
     "nodegit": "^0.20.3",
+    "nodegit-flow": "^0.4.2",
+    "octonode": "git+https://github.com/Thatkookooguy/octonode.git",
     "pkginfo": "^0.4.1",
     "prompt-confirm": "^1.2.0",
     "q": "^1.5.1",
