@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Kibibit/kibibit-cli#readme",
   "dependencies": {
+    "async": "^2.6.0",
     "blessed": "^0.1.81",
     "cli-color": "^1.2.0",
     "cli-table": "^0.3.1",
