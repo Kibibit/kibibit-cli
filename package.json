@@ -31,12 +31,16 @@
     "eslint-plugin-kibibit": "github:kibibit/eslint-plugin-kibibit",
     "eslint-plugin-lodash": "^2.3.3",
     "find-root": "^1.1.0",
+    "fs-readfile-promise": "^3.0.1",
     "gitlike-cli": "^0.1.0",
     "highlight.js": "^9.12.0",
+    "home-config": "^0.1.0",
     "indent-string": "^3.2.0",
     "inquirer": "^4.0.0",
     "json-colorizer": "^1.1.0",
+    "keytar": "^4.1.0",
     "lodash": "^4.17.4",
+    "manakin": "^0.5.1",
     "marked": "^0.3.7",
     "moment": "^2.19.3",
     "node-emoji": "^1.8.1",
@@ -51,6 +55,7 @@
     "shelljs": "^0.7.8",
     "strip-ansi": "^4.0.0",
     "unescape": "^1.0.1",
-    "wrap-ansi": "^3.0.1"
+    "wrap-ansi": "^3.0.1",
+    "write-file-promise": "^1.0.0"
   }
 }
