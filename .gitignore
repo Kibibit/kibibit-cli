@@ -12,3 +12,6 @@ mochawesome-report/
 
 privateConfig.json
 test.js
+
+# dist folder
+dist/

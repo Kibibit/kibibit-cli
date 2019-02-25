@@ -44,8 +44,8 @@
     "marked": "^0.3.7",
     "moment": "^2.19.3",
     "node-emoji": "^1.8.1",
-    "nodegit": "^0.20.3",
-    "nodegit-flow": "^0.4.2",
+    "nodegit": "^0.24.1",
+    "nodegit-flow": "^2.0.0",
     "octonode": "git+https://github.com/Thatkookooguy/octonode.git",
     "pkginfo": "^0.4.1",
     "prompt-checkbox": "^2.2.0",
@@ -57,5 +57,8 @@
     "unescape": "^1.0.1",
     "wrap-ansi": "^3.0.1",
     "write-file-promise": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.3.3333"
   }
 }
