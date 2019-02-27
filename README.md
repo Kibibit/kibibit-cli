@@ -1,7 +1,22 @@
-# kibibit-cli (aka bit)
-#### a git-flow + GitHub replacement for `git` and `git flow`
+<p align="center">
+  <a href="https://github.com/Kibibit/kibibit-cli" target="blank"><img src="http://kibibit.io/kibibit-assets/bit-logo.png" width="250" ></a>
+  <h2 align="center">
+    kibibit-cli (aka bit)
+  </h2>
+</p>
+<p align="center">
+  <!--<a href="https://github.com/semantic-release/semantic-release"><img src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg"></a>
+  <a href="https://greenkeeper.io/"><img src="https://img.shields.io/badge/greenkeeper-enabled-brightgreen.svg"></a>
+  <a href="https://travis-ci.org/Kibibit/kibibit-cli"><img src="https://travis-ci.org/Kibibit/kibibit-cli.svg?branch=master"></a>
+  <a href="https://coveralls.io/github/Kibibit/kibibit-cli?branch=master"><img src="https://coveralls.io/repos/github/Kibibit/kibibit-cli/badge.svg?branch=master"></a> -->
+  <a href="https://salt.bountysource.com/teams/kibibit"><img src="https://img.shields.io/endpoint.svg?url=https://monthly-salt.now.sh&style=flat-square"></a>
+</p>
+<p align="center">
+  A git-flow + GitHub replacement for <code>git</code> and <code>git flow</code>
+</p>
+<hr>
 
-##### installation
+### installation
 run `npm install -g https://github.com/Kibibit/kibibit-cli.git`
 `kibibit status`
 
