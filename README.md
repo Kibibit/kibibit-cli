@@ -9,7 +9,7 @@
   <a href="https://greenkeeper.io/"><img src="https://img.shields.io/badge/greenkeeper-enabled-brightgreen.svg"></a>
   <a href="https://travis-ci.org/Kibibit/kibibit-cli"><img src="https://travis-ci.org/Kibibit/kibibit-cli.svg?branch=master"></a>
   <a href="https://coveralls.io/github/Kibibit/kibibit-cli?branch=master"><img src="https://coveralls.io/repos/github/Kibibit/kibibit-cli/badge.svg?branch=master"></a> -->
-  <a href="https://salt.bountysource.com/teams/kibibit"><img src="https://img.shields.io/endpoint.svg?url=https://monthly-salt.now.sh&style=flat-square"></a>
+  <a href="https://salt.bountysource.com/teams/kibibit"><img src="https://img.shields.io/endpoint.svg?url=https://monthly-salt.now.sh/kibibit&style=flat-square"></a>
 </p>
 <p align="center">
   A git-flow + GitHub replacement for <code>git</code> and <code>git flow</code>
